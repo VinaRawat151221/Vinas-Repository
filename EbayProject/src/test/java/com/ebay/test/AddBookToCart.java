@@ -32,7 +32,6 @@ public class AddBookToCart{
 			selectABookInEbay.SelectBook();
 			selectABookInEbay.ValidateBook();
 			selectABookInEbay.addBookToCartAndValidate();
-			
 		}
 		
 		@AfterTest
