@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-09T08:49:15 IST" name="Suite" finished-at="2025-01-09T08:49:32 IST" duration-ms="17483">
+    <groups>
+    </groups>
+    <test started-at="2025-01-09T08:49:15 IST" name="Test" finished-at="2025-01-09T08:49:32 IST" duration-ms="17483">
+      <class name="com.ebay.test.AddBookToCart">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:com.ebay.test.AddBookToCart@2a5c8d3f]" started-at="2025-01-09T08:49:15 IST" name="Initialize" finished-at="2025-01-09T08:49:18 IST" duration-ms="3707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="AddABookToCart()[pri:0, instance:com.ebay.test.AddBookToCart@2a5c8d3f]" started-at="2025-01-09T08:49:18 IST" name="AddABookToCart" finished-at="2025-01-09T08:49:32 IST" duration-ms="13358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddABookToCart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ebay.test.AddBookToCart@2a5c8d3f]" started-at="2025-01-09T08:49:32 IST" name="TearDown" finished-at="2025-01-09T08:49:32 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.ebay.test.AddBookToCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
